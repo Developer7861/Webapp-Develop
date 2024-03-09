@@ -1,4 +1,4 @@
-package 1.0;
+package com.example.webdeveloper;
 
 /**
  * Hello world!
